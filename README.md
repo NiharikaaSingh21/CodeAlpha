@@ -1,4 +1,4 @@
-# CodeAlpha
+# Data Science Portfolio
 
 <h2>🪻 Iris Flower Classification Dashboard</h2>
 
